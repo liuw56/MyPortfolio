@@ -1,0 +1,22 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Responsive website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dict/css/ --recursive "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuw56/MyPortfolio.git"
+  },
+  "author": "Wei Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuw56/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/liuw56/MyPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}

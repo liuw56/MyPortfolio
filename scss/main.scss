@@ -130,6 +130,7 @@ main {
   grid-template-columns: repeat(3, 1fr);
   img {
     width: 100%;
+    display: flex;
     border: 3px white solid;
 
     &:hover {

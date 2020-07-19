@@ -99,6 +99,10 @@ main {
   .bio {
     grid-area: bio;
     font-size: 1.5rem;
+
+    button {
+      background: $primary-color;
+    }
   }
 
   .job-1 {

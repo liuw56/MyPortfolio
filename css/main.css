@@ -178,6 +178,8 @@ main {
   .about-info .bio {
     grid-area: bio;
     font-size: 1.5rem; }
+    .about-info .bio button {
+      background: #1f2e3d; }
   .about-info .job-1 {
     grid-area: job-1; }
   .about-info .job-2 {

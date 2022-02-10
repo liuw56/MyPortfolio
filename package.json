@@ -20,6 +20,6 @@
   "homepage": "https://github.com/liuw56/MyPortfolio#readme",
   "dependencies": {
     "gh-pages": "^2.2.0",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
